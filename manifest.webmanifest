@@ -1,0 +1,11 @@
+{
+  "name":"Comemos — Planificador familiar",
+  "short_name":"Comemos",
+  "description":"Planificador familiar de comidas según gustos, tiempo e ingredientes.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f6f4ef",
+  "theme_color":"#f6f4ef",
+  "lang":"es",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
